@@ -1,0 +1,13 @@
+rashford_ansible/
+├── inventories/
+│   └── production/
+├── roles/
+│   ├── tomcat/
+│   │   └── tasks/
+│   │       └── main.yml
+│   └── maven/
+│       └── tasks/
+│           └── main.yml
+├── playbooks/
+│   └── setup_environment.yml
+└── ansible.cfg
